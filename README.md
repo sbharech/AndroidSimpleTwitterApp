@@ -22,3 +22,8 @@ The following advanced user stories are also supported:
 7. Bonus: Compose activity is replaced with a modal overlay - This is not completed.
 
 Time taken - ~15 hours
+
+Demo:
+
+![simpletwitterdemo](https://cloud.githubusercontent.com/assets/2020366/6320156/e77ccd26-bafc-11e4-9134-953a583358c3.gif)
+
