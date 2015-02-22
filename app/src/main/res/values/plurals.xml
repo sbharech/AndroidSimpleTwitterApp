@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="retweet_count">
+        <item quantity="one">retweet</item>
+        <item quantity="other">retweets</item>
+    </plurals>
+    <plurals name="fav_count">
+        <item quantity="one">favorite</item>
+        <item quantity="other">favorites</item>
+    </plurals>
+</resources>
